@@ -1,7 +1,7 @@
 ## 职业生涯
 
 #### 技术总结
-* [Vue VS React深度剖析](https://github.com/hexiaokang/Blog/issues/1)
+* [Vue VS React深度对比](https://github.com/hexiaokang/Blog/issues/1)
 * [剖析setState源码，揭秘到底是同步OR异步](https://github.com/hexiaokang/Blog/issues/2)
 
 #### 价值思考
