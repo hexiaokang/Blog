@@ -23,4 +23,4 @@
 
 ## 联系方式
 * Twitter：https://twitter.com/XiaokangHe
-* Emial: xiaokanglc@gmail.com
+* Email: xiaokanglc@gmail.com
