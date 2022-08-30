@@ -4,7 +4,9 @@
 * [Vue & React深度对比](https://github.com/hexiaokang/Blog/issues/1)
 * [剖析setState源码，揭秘到底是同步OR异步](https://github.com/hexiaokang/Blog/issues/2)
 * [聊一聊Fiber](https://github.com/hexiaokang/Blog/issues/3)
+* [Vue3源码深入学习曲线](https://github.com/hexiaokang/Blog/issues/3)
 * [前端技术演变史](https://github.com/hexiaokang/Blog/issues/4)
+* [webpack源码深入](https://github.com/hexiaokang/Blog/issues/3)
 * [webpack、gulp、vite深度对比](https://github.com/hexiaokang/Blog/issues/8)
 * [玩转NPM](https://github.com/hexiaokang/Blog/issues/5)
 
