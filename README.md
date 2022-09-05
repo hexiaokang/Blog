@@ -10,6 +10,7 @@
 * [webpack、gulp、vite深度对比](https://github.com/hexiaokang/Blog/issues/8)
 * [VDOM到底比原生操作快还是慢？](https://github.com/hexiaokang/Blog/issues/5)
 * [玩转NPM](https://github.com/hexiaokang/Blog/issues/5)
+* [《Vue.js设计与实现》拜读总结](https://github.com/hexiaokang/Blog/issues/10)
 
 #### 价值思考
 * [程序员关于英语水平的思考](https://github.com/hexiaokang/Blog/issues/9)
