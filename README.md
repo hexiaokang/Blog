@@ -21,6 +21,7 @@
 * [ReactDOM博文修正](https://zh-hansreactjs-33qpuuxei-fbopensource.vercel.app/docs/react-dom.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/901)
 * [Introducing React Native 翻译](https://zh-hans.reactjs.org/blog/2015/03/26/introducing-react-native.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/904)
 * [Flux: An Application Architecture for React 翻译](https://zh-hans.reactjs.org/blog/2014/05/06/flux.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
+* [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
 * [aiTeFriend - 模拟微信聊天框@功能](https://github.com/hexiaokang/Blog/issues/7)
 
 ## About
