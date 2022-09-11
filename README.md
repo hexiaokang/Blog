@@ -23,6 +23,7 @@
 * [Flux: An Application Architecture for React 翻译](https://zh-hans.reactjs.org/blog/2014/05/06/flux.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
 * [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
 * [aiTeFriend - 模拟微信聊天框@功能](https://github.com/hexiaokang/Blog/issues/7)
+* [Why typeScript?](https://www.typescriptlang.org/zh/why-create-typescript) - [源码](https://www.typescriptlang.org/zh/why-create-typescript)
 
 ## About
 专职前端，2015.9开始从事前端开发，先后任职于科大讯飞、作业帮、水滴科技等企业，参与过多个日PV千万级的大型项目。
