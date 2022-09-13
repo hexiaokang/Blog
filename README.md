@@ -13,6 +13,8 @@
 #### 价值思考
 * [程序员关于英语水平的思考](https://github.com/hexiaokang/Blog/issues/9)
 * [前端价值思考，前端天花板在哪里](https://github.com/hexiaokang/Blog/issues/6)
+* [专访Kyle Simpson - JavaScript神学家](https://github.com/hexiaokang/Blog/issues/11)
+* [探索Ryan Dahl- Node.js作者](https://github.com/hexiaokang/Blog/issues/12)
 
 #### 技术开源
 * [ReactDOMClient博文翻译](https://zh-hansreactjs-n35mvh7mj-fbopensource.vercel.app/docs/react-dom-client.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/900/commits)
