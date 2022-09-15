@@ -7,7 +7,6 @@
 * [Vue3源码深入学习曲线](https://github.com/hexiaokang/Blog/issues/3)
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
 * [VDOM到底比原生操作快还是慢](https://github.com/hexiaokang/Blog/issues/5)
-* [玩转NPM](https://github.com/hexiaokang/Blog/issues/5)
 * [简单DIff、双端Diff、快速Diff](https://github.com/hexiaokang/Blog/issues/13)
 
 #### 价值思考
@@ -22,7 +21,6 @@
 * [Introducing React Native 翻译](https://zh-hans.reactjs.org/blog/2015/03/26/introducing-react-native.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/904)
 * [Flux: An Application Architecture for React 翻译](https://zh-hans.reactjs.org/blog/2014/05/06/flux.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
 * [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
-* [aiTeFriend - 模拟微信聊天框@功能](https://github.com/hexiaokang/Blog/issues/7)
 * [Why typeScript?](https://www.typescriptlang.org/zh/why-create-typescript) - [源码](https://www.typescriptlang.org/zh/why-create-typescript)
 * [Typescript-in-5-minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - [源码](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
