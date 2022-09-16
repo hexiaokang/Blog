@@ -20,7 +20,7 @@
 * [ReactDOM博文修正](https://zh-hansreactjs-33qpuuxei-fbopensource.vercel.app/docs/react-dom.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/901)
 * [Introducing React Native 翻译](https://zh-hans.reactjs.org/blog/2015/03/26/introducing-react-native.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/904)
 * [Flux: An Application Architecture for React 翻译](https://zh-hans.reactjs.org/blog/2014/05/06/flux.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
-* [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码]([https://github.com/reactjs/zh-hans.reactjs.org/pull/916](https://github.com/reactjs/zh-hans.reactjs.org/pull/925)
+* [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/925)
 * [Why typeScript?](https://www.typescriptlang.org/zh/why-create-typescript) - [源码](https://github.com/microsoft/TypeScript-Website-Localizations/pull/169)
 * [Typescript-in-5-minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) - [源码](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
