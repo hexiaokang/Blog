@@ -12,7 +12,7 @@
 #### 价值思考
 * [程序员关于英语水平的思考](https://github.com/hexiaokang/Blog/issues/9)
 * [前端价值思考，前端天花板在哪里](https://github.com/hexiaokang/Blog/issues/6)
-* [专访Kyle Simpson - JavaScript神学家](https://github.com/hexiaokang/Blog/issues/11)
+* [我忘记的JavaScript比大多数人学过的还多 - Kyle Simpson](https://github.com/hexiaokang/Blog/issues/11)
 * [探索Ryan Dahl - Node.js作者](https://github.com/hexiaokang/Blog/issues/12)
 
 #### 技术开源
