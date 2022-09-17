@@ -16,8 +16,8 @@
 * [探索Ryan Dahl - Node.js作者](https://github.com/hexiaokang/Blog/issues/12)
 
 #### 技术开源
-* [ReactDOMClient博文翻译](https://zh-hansreactjs-n35mvh7mj-fbopensource.vercel.app/docs/react-dom-client.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/900/commits)
-* [ReactDOM博文修正](https://zh-hansreactjs-33qpuuxei-fbopensource.vercel.app/docs/react-dom.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/901)
+* [ReactDOMClient博客翻译](https://zh-hansreactjs-n35mvh7mj-fbopensource.vercel.app/docs/react-dom-client.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/900/commits)
+* [ReactDOM博客修正](https://zh-hansreactjs-33qpuuxei-fbopensource.vercel.app/docs/react-dom.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/901)
 * [Introducing React Native 翻译](https://zh-hans.reactjs.org/blog/2015/03/26/introducing-react-native.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/904)
 * [Flux: An Application Architecture for React 翻译](https://zh-hans.reactjs.org/blog/2014/05/06/flux.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
 * [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/925)
