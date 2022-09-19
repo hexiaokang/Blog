@@ -6,7 +6,7 @@
 * [聊一聊Fiber](https://github.com/hexiaokang/Blog/issues/3)
 * [Vue3源码深入学习曲线](https://github.com/hexiaokang/Blog/issues/3)
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
-* [VDOM到底比原生操作快还是慢](https://github.com/hexiaokang/Blog/issues/5)
+* [VDOM到底比原生操作快还是慢](https://github.com/hexiaokang/Blog/issues/14)
 * [简单DIff、双端Diff、快速Diff](https://github.com/hexiaokang/Blog/issues/13)
 
 #### 价值思考
