@@ -1,7 +1,7 @@
 ## 职业生涯
 
 #### 技术总结
-* [Vue3源码深入学习曲线](https://github.com/hexiaokang/Blog/issues/3)
+* [Vue3 核心架构与模块](https://github.com/hexiaokang/Blog/issues/3)
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
 * [Vue & React深度对比](https://github.com/hexiaokang/Blog/issues/1)
 * [剖析setState源码，揭秘到底是同步OR异步](https://github.com/hexiaokang/Blog/issues/2)
