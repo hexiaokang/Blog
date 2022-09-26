@@ -1,13 +1,14 @@
 ## 职业生涯
 
 #### 技术总结
-* [Vue3 核心模块与原理](https://github.com/hexiaokang/Blog/issues/3)
+* [Vue3 三大核心模块之【编译器】](https://github.com/hexiaokang/Blog/issues/3)
+* [Vue3 三大核心模块之【渲染器】](https://github.com/hexiaokang/Blog/issues/16)
+* [Vue3 三大核心模块之【响应式系统】](https://github.com/hexiaokang/Blog/issues/17)
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
 * [Vue & React深度对比](https://github.com/hexiaokang/Blog/issues/1)
 * [剖析setState源码，揭秘到底是同步OR异步](https://github.com/hexiaokang/Blog/issues/2)
 * [聊一聊Fiber](https://github.com/hexiaokang/Blog/issues/3)
 * [VDOM到底比原生操作快还是慢](https://github.com/hexiaokang/Blog/issues/14)
-* [简单DIff、双端Diff、快速Diff](https://github.com/hexiaokang/Blog/issues/13)
 
 #### 价值思考
 * [程序员关于英语水平的思考](https://github.com/hexiaokang/Blog/issues/9)
@@ -15,7 +16,7 @@
 * [我忘记的JavaScript比大多数人学过的还多 - Kyle Simpson](https://github.com/hexiaokang/Blog/issues/11)
 * [你不会想到，webpack竟然诞生于一个issue！](https://github.com/hexiaokang/Blog/issues/15)
 
-#### 技术开源
+#### 技术翻译
 * [ReactDOMClient博客翻译](https://zh-hansreactjs-n35mvh7mj-fbopensource.vercel.app/docs/react-dom-client.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/900/commits)
 * [ReactDOM博客修正](https://zh-hansreactjs-33qpuuxei-fbopensource.vercel.app/docs/react-dom.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/901)
 * [Introducing React Native 翻译](https://zh-hans.reactjs.org/blog/2015/03/26/introducing-react-native.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/904)
