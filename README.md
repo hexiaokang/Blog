@@ -7,13 +7,11 @@
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
 * [Vue & React深度对比](https://github.com/hexiaokang/Blog/issues/1)
 * [剖析setState源码，揭秘到底是同步还是异步](https://github.com/hexiaokang/Blog/issues/2)
-* [React - Fiber原理](https://github.com/hexiaokang/Blog/issues/3)
 
 #### 价值思考
-* [程序员关于英语水平的思考](https://github.com/hexiaokang/Blog/issues/9)
-* [前端价值思考，前端天花板在哪里](https://github.com/hexiaokang/Blog/issues/6)
 * [我忘记的JavaScript比大多数人学过的还多 - Kyle Simpson](https://github.com/hexiaokang/Blog/issues/11)
 * [你不会想到，webpack竟然诞生于一个issue！](https://github.com/hexiaokang/Blog/issues/15)
+* [程序员关于英语水平的思考](https://github.com/hexiaokang/Blog/issues/9)
 
 #### 技术翻译
 * [ReactDOMClient博客翻译](https://zh-hansreactjs-n35mvh7mj-fbopensource.vercel.app/docs/react-dom-client.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/900/commits)
