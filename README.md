@@ -6,7 +6,6 @@
 * [Vue3 三大核心模块之【响应式系统】](https://github.com/hexiaokang/Blog/issues/17)
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
 * [剖析setState源码，揭秘到底是同步还是异步](https://github.com/hexiaokang/Blog/issues/2)
-* [Vue & React深度对比](https://github.com/hexiaokang/Blog/issues/1)
 
 #### 价值思考
 * [我忘记的JavaScript比大多数人学过的还多 - Kyle Simpson](https://github.com/hexiaokang/Blog/issues/11)
@@ -22,7 +21,7 @@
 * [Why typeScript?](https://www.typescriptlang.org/zh/why-create-typescript) - [源码](https://github.com/microsoft/TypeScript-Website-Localizations/pull/169)
 
 ## About
-专职前端，2015.9开始从事前端开发，先后任职于科大讯飞、作业帮、水滴科技等企业，参与过多个日PV千万级的大型项目。
+专职前端，六年技术生涯，先后任职于科大讯飞、作业帮、水滴科技等企业，参与过多个日PV千万级的大型项目。
 
 ## 联系方式
 * Twitter：https://twitter.com/XiaokangHe
