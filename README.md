@@ -10,6 +10,7 @@
 #### 价值思考
 * [我忘记的JavaScript比大多数人学过的还多 - Kyle Simpson](https://github.com/hexiaokang/Blog/issues/11)
 * [你不会想到，webpack竟然诞生于一个issue！](https://github.com/hexiaokang/Blog/issues/15)
+* [英语对于程序员价值的思考](https://github.com/hexiaokang/Blog/issues/9)
 
 #### 技术翻译
 * [ReactDOMClient博客翻译](https://zh-hansreactjs-n35mvh7mj-fbopensource.vercel.app/docs/react-dom-client.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/900/commits)
