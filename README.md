@@ -21,7 +21,7 @@
 * [Why typeScript?](https://www.typescriptlang.org/zh/why-create-typescript) - [源码](https://github.com/microsoft/TypeScript-Website-Localizations/pull/169)
 
 ## About
-专职前端，六年技术生涯，先后任职于科大讯飞、作业帮、水滴科技等企业，参与过多个日PV千万级的大型项目。
+专职前端，七年技术生涯，先后任职于科大讯飞、作业帮、水滴科技等企业，参与过多个日PV千万级的大型项目。
 
 ## 联系方式
 * Twitter：https://twitter.com/XiaokangHe
