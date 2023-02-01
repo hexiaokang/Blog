@@ -19,6 +19,8 @@
 * [Flux: An Application Architecture for React 翻译](https://zh-hans.reactjs.org/blog/2014/05/06/flux.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/916)
 * [React Native v0.4 翻译](https://zh-hans.reactjs.org/blog/2015/04/17/react-native-v0.4.html) - [源码](https://github.com/reactjs/zh-hans.reactjs.org/pull/925)
 * [Why typeScript?](https://www.typescriptlang.org/zh/why-create-typescript) - [源码](https://github.com/microsoft/TypeScript-Website-Localizations/pull/169)
+* [webpack plugins](https://webpack.js.org/plugins/) - [源码](https://github.com/docschina/webpack.js.org/pull/1771)
+
 
 ## About
 专职前端，七年技术生涯，先后任职于科大讯飞、作业帮、水滴科技等企业，参与过多个日PV千万级的大型项目。
