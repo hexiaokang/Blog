@@ -27,4 +27,4 @@
 
 ## 联系方式
 * Twitter：https://twitter.com/XiaokangHe
-* Email: xiaokanglc@gmail.com
+* Email: 15342248962@163.com / xiaokanglc@gmail.com
