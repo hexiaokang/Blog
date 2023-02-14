@@ -5,7 +5,7 @@
 * [Vue3 三大核心模块之【渲染器】](https://github.com/hexiaokang/Blog/issues/16)
 * [Vue3 三大核心模块之【响应式系统】](https://github.com/hexiaokang/Blog/issues/17)
 * [前端行业领军人物](https://github.com/hexiaokang/Blog/issues/4)
-* [剖析setState源码，揭秘到底是同步还是异步](https://github.com/hexiaokang/Blog/issues/2)
+* [揭秘 setState 到底是同步还是异步](https://github.com/hexiaokang/Blog/issues/2)
 
 #### 价值思考
 * [我忘记的JavaScript比大多数人学过的还多 - Kyle Simpson](https://github.com/hexiaokang/Blog/issues/11)
